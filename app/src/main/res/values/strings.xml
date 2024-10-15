@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AndroidMyTrainingSession</string>
+    <string name="app_name">Каждодневные тренировки</string>
     <string name="train">Тренировка</string>
     <string name="exit">Выход</string>
 </resources>
